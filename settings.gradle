@@ -1,0 +1,1 @@
+include ':app', ':speechrecognizer', ':iapppay_plugin'
